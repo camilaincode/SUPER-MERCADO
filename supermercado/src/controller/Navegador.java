@@ -15,7 +15,7 @@ public class Navegador {
 		this.janela.adicionarTela(nome, tela);
 	}
 	
-	public void navegarPrara(String nome) {
+	public void navegarPara(String nome) {
 		this.janela.mostrarTela(nome);
 	}
 	
